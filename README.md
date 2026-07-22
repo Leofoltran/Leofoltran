@@ -47,15 +47,6 @@ Também compartilho conteúdo sobre dados, tecnologia e minha jornada de aprendi
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leofoltran&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofoltran&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Filosofia
 
 > _"Dados não servem só para responder perguntas. Servem para revelar o que ainda nem sabíamos perguntar"_
