@@ -15,10 +15,6 @@ Também compartilho conteúdo sobre dados, tecnologia e minha jornada de aprendi
   <a href="https://github.com/Leofoltran">
     <img src="https://img.shields.io/badge/GitHub-LEOFOLTRAN-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.instagram.com/leoofoltran/">
-    <img src="https://img.shields.io/badge/Instagram-@leoofoltran
--E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 ---
